@@ -563,7 +563,7 @@ button[aria-label="Send a gift"] {
 
 .modeMuted-2T4MDZ .icon-2W8DHg,
 .modeMuted-2T4MDZ .name-28HaxV {
-  color: #1a2a55;
+  color: #929394;
 }
 .interactive:hover {
   color: var(--ocean-color2);
@@ -842,7 +842,7 @@ button[aria-label="Send a gift"] {
 .theme-light .activeButton-LRWFC_:hover,
 .endButton-oUxeLG:last-child {
   background-color: var(--ocean-color2);
-  color: var(--ocean-color1);
+  color: #F7F7F7;
 }
 
 .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN,
