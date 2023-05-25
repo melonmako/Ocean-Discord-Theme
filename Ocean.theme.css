@@ -301,16 +301,16 @@ min-height: 55px;
   background-color: var(--ocean-color2);
 }
 .mention-3XBnnZ {
-  background-color: var(--ocean-color1);
+  background-color: var(--ocean-color3);
 }
 .mentioned-Tre-dv {
-  background-color: rgba(var(--ocean-color1), 0.1) !important;
+  background-color: rgba(var(--ocean-color3), 0.1) !important;
 }
 .mentioned-Tre-dv:before {
-  background-color: var(--ocean-color1);
+  background-color: var(--ocean-color3);
 }
 .mentioned-Tre-dv:hover {
-  background-color: rgba(var(--ocean-color1), 0.2) !important;
+  background-color: rgba(var(--ocean-color3), 0.2) !important;
 }
 .discriminator-WV5K5s {
   color: var(--ocean-color2);
