@@ -907,7 +907,7 @@ button[aria-label="Send a gift"] {
 }
 
 .replyBar-1oi75v {
-  background-color: var(--ocean-color1);
+  background-color: var(--ocean-color1) !important; 
 }
 .replyLabel-WWnhHi, .closeIcon-1bRhE8 {
   color: var(--ocean-color2);
