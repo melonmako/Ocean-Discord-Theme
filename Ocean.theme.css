@@ -922,7 +922,7 @@ button[aria-label="Send a gift"] {
 }
 
 .button-2fCJ0o, .button-12Fmur {
-  color: var(--ocean-color1);
+  color: var(--ocean-color2);
 }
 
 .attachButtonPlus-3IYelE {
@@ -952,7 +952,7 @@ button[aria-label="Send a gift"] {
 }
 
 .container-3wLKDe {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .mainCard-3KBsBI,.mainCard-3KBsBI:hover {
@@ -968,7 +968,7 @@ button[aria-label="Send a gift"] {
 }
 
 .divider-AZrXIA {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .headerText-10ez_d, .sidebar-nqHbhN .side-1lrxIh .item-2GWPIy, .bd-sidebar-header h2 {
